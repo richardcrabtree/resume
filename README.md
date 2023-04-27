@@ -1,4 +1,4 @@
-Richard Crabtree   
+**Richard Crabtree**  
 richard.crabtree@gmail.com  
 
 # Skills
