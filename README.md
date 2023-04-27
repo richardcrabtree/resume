@@ -108,12 +108,10 @@ I have experience with the following technologies:
 ## Rackspace Technologies  
 **Cloud Practice Engineer, Professional Services**  
 January 2022 - Present
-
-## Rackspace Technologies  
+ 
 **Linux Support Engineer, Strategic Accounts**  
 May 2021 - January 2022
 
-## Rackspace Technologies  
 **Linux Support Administrator**  
 March 2018 - May 2021
 
