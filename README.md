@@ -115,7 +115,7 @@ March 2018 - May 2021
 
 
 ### Hosting.com  
-> **Support Administrator** 
+> **Support Administrator**  
 September 2012 - November 2017 
 
 
