@@ -1,15 +1,5 @@
-Richard Crabtree  
-richard.crabtree@gmail.com 
-
-To whom it may concern: 
-
-  I have 25 years of experience in the commercial IT industry. Most recently, I was acting lead engineer for a migration project which consisted of migrating a Hadoop application from traditional hosting to AWS. This involved use of AWS CDK to create Oracle and Aurora databases EC2 instnces for multiple applications, and multiple AWS EMR clusters.
-
-  Previously, I was a Linux administrator and engineer providing support to enterprise and strategic customers. 
-
-  I look forward to an opportunity to interview for this position. My resume is attached. I would be  happy to provide you with any additional information requested. 
-
-  Thank you for your consideration. 
+Richard Crabtree   
+richard.crabtree@gmail.com  
 
 # Skills
 
