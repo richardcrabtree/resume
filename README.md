@@ -104,23 +104,23 @@ richard.crabtree@gmail.com 
 # Professional Experience  
 
 ### Rackspace Technologies  
-**Cloud Practice Engineer, Professional Services**  
+> **Cloud Practice Engineer, Professional Services**  
 January 2022 - Present
  
-**Linux Support Engineer, Strategic Accounts**  
+> **Linux Support Engineer, Strategic Accounts**  
 May 2021 - January 2022
 
-**Linux Administrator**  
+> **Linux Administrator**  
 March 2018 - May 2021
 
 
 ### Hosting.com  
-**Support Administrator** 
+> **Support Administrator** 
 September 2012 - November 2017 
 
 
 ### Iglou Internet Services  
-**Network Engineer**   
+> **Network Engineer**   
 November 2010 – September 2012 
 
 # Interests  
