@@ -90,6 +90,10 @@ richard.crabtree@gmail.com 
 + Recieve consistently high ratings in customer satisfaction
 
 
+# Certifications
++ AWS Certified Solutions Architect, Associate
+
+
 # Awards
 + I have received my department’s quarterly Most Valuable Player award. 
 + I have received Most Valuable Player Runner Up. 
@@ -108,8 +112,6 @@ richard.crabtree@gmail.com 
 *"This is the Rackspace I remeber!"* - Customer  
 
 
-# Certifications
-+ AWS Certified Solutions Architect, Associate
 
 
 # Professional Experience  
