@@ -91,10 +91,10 @@ richard.crabtree@gmail.com 
 
 
 # Recognition
-+ "Rich has played a key role is successful deployment of dev and test EMR clusters for <Customer> AWS Migration project. These are critical to the success of the project. He displayed not only technical skills, but a lot of patience dealing with a tough customer." - Project Engagement Manager
-+ "Rich has been putting a significant amount of extra effort with <Customer>. He has taken time off his PTO to answer questions and assist with issues." - Project Solutions Architect
++ "Rich has played a key role is successful deployment of dev and test EMR clusters for (Customer) AWS Migration project. These are critical to the success of the project. He displayed not only technical skills, but a lot of patience dealing with a tough customer." - Project Engagement Manager
++ "Rich has been putting a significant amount of extra effort with (Customer). He has taken time off his PTO to answer questions and assist with issues." - Project Solutions Architect
 + "Great work keeping up with the rapidly changing requirements with a very dynamic situation." - Project Solutions Architect
-+ "Working late nights and weekends to bring a successful go live for <Customer>" - Project Solutions Architect
++ "Working late nights and weekends to bring a successful go live for (Customer)" - Project Solutions Architect
 
 
 # Certifications
