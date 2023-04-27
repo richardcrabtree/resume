@@ -95,6 +95,7 @@ richard.crabtree@gmail.com 
 + "Rich has been putting a significant amount of extra effort with (Customer). He has taken time off his PTO to answer questions and assist with issues." - Project Solutions Architect
 + "Great work keeping up with the rapidly changing requirements with a very dynamic situation." - Project Solutions Architect
 + "Working late nights and weekends to bring a successful go live for (Customer)" - Project Solutions Architect
++ "This is the Rackspace I remeber!" - Customer
 
 
 # Certifications
