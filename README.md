@@ -105,25 +105,25 @@ I have experience with the following technologies:
 
 # Professional Experience  
 
-#### Rackspace Technologies  
+## Rackspace Technologies  
 **Cloud Practice Engineer, Professional Services**  
 January 2022 - Present
 
-#### Rackspace Technologies  
+## Rackspace Technologies  
 **Linux Support Engineer, Strategic Accounts**  
 May 2021 - January 2022
 
-#### Rackspace Technologies  
+## Rackspace Technologies  
 **Linux Support Administrator**  
 March 2018 - May 2021
 
-#### Hosting.com  
+## Hosting.com  
 **Support Administrator III**  
 **Support Administrator II**   
 **Support Administrator I**  
 September 2012 - November 2017 
 
-#### Iglou Internet Services  
+## Iglou Internet Services  
 **Network Engineer**   
 November 2010 – September 2012 
 
