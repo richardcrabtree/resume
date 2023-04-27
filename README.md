@@ -1,13 +1,17 @@
 Richard Crabtree  
 richard.crabtree@gmail.com 
 
+To whom it may concern: 
+
+  I have 25 years of experience in the commercial IT industry. Most recently, I was acting lead engineer for a migration project which consisted of migrating a Hadoop application from traditional hosting to AWS. This involved use of AWS CDK to create Oracle and Aurora databases EC2 instnces for multiple applications, and multiple AWS EMR clusters.
+
+  Previously, I was a Linux administrator and engineer providing support to enterprise and strategic customers. 
+
+  I look forward to an opportunity to interview for this position. My resume is attached. I would be  happy to provide you with any additional information requested. 
+
+  Thank you for your consideration. 
+
 # Skills
-
-Most recently, I was acting lead engineer for a migration project which consisted of migrating a Hadoop application from traditional hosting to AWS. This involved use of AWS CDK to create Oracle and Aurora databases EC2 instnces for multiple applications, and multiple AWS EMR clusters.
-
-Previously, I was a Linux administrator and engineer providing support to enterprise and strategic customers.
-
-I have experience with the following technologies:
 
 #### Continuous Integration and Delivery
 + Design of Github Actions pipelines
@@ -89,10 +93,12 @@ I have experience with the following technologies:
 + Provide recommendations to handle growth in capacity requirements and enhance reliability
 + Recieve consistently high ratings in customer satisfaction
 
+
 # Awards
 + I have received my department’s quarterly Most Valuable Player award. 
 + I have received Most Valuable Player Runner Up. 
 + I have twice been elected by my peers as Team Player of the Month. 
+
 
 # Recognition
 + "Rich has played a key role is successful deployment of dev and test EMR clusters for <Customer> AWS Migration project. These are critical to the success of the project. He displayed not only technical skills, but a lot of patience dealing with a tough customer." - Project Engagement Manager
@@ -100,8 +106,10 @@ I have experience with the following technologies:
 + "Great work keeping up with the rapidly changing requirements with a very dynamic situation." - Project Solutions Architect
 + "Working late nights and weekends to bring a successful go live for <Customer>" - Project Solutions Architect
 
+
 # Certifications
 + AWS Certified Solutions Architect, Associate
+
 
 # Professional Experience  
 
@@ -115,9 +123,11 @@ May 2021 - January 2022
 **Linux Administrator**  
 March 2018 - May 2021
 
+
 ### Hosting.com  
 **Support Administrator** 
 September 2012 - November 2017 
+
 
 ### Iglou Internet Services  
 **Network Engineer**   
