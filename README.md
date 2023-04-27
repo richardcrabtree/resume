@@ -1,7 +1,7 @@
 Richard Crabtree  
 richard.crabtree@gmail.com 
 
-## Skills
+# Skills
 
 Most recently, I was acting lead engineer for a migration project which consisted of migrating a Hadoop application from traditional hosting to AWS. This involved use of AWS CDK to create Oracle and Aurora databases EC2 instnces for multiple applications, and multiple AWS EMR clusters.
 
@@ -30,7 +30,7 @@ I have experience with the following technologies:
 + S3
 + RDS
 
-### Containerization
+#### Containerization
 + Docker
 + Docker Compose
 
@@ -92,17 +92,15 @@ I have experience with the following technologies:
 + Provide recommendations to handle growth in capacity requirements and enhance reliability
 + Recieve consistently high ratings in customer satisfaction
 
-
-## Awards
+# Awards
 + I have received my department’s quarterly Most Valuable Player award. 
 + I have received Most Valuable Player Runner Up. 
 + I have twice been elected by my peers as Team Player of the Month. 
 
-## Certifications
+# Certifications
 + AWS Certified Solutions Architect, Associate
 
-
-## Professional Experience  
+# Professional Experience  
 
 #### Rackspace Technologies
 Cloud Practice Engineer, Professional Services
@@ -125,7 +123,7 @@ November 2010 – September 2012 
 Systems Administrator Consultant 
 January 2010 – November 2010 
 
-## Interests  
+# Interests  
 + Futurism
 + Artificial Intelligence
 + Home Automation 
