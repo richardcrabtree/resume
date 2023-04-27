@@ -26,6 +26,12 @@ richard.crabtree@gmail.com 
 + Build and deploy Docker containers
 + Use of Docker Compose
 
+#### Software
++ Development with NodeJS
++ Development with Typescript
++ Development with Python
++ Development with Ruby
+
 #### Operating Systems
 + Support of Red Hat, CentOS, and Debian in production environments
 + SAN volume addition and expansion
@@ -70,7 +76,7 @@ richard.crabtree@gmail.com 
 + Configuration of Juniper firewalls
 + Configuration of Cisco firewalls and switches
 + Configuration of BigIP load balancers
-+ Architect, build and support IPSEC VPN tunnels
++ Architect, build, and support IPSEC VPN tunnels
 + PCI compliance remediation
 
 #### Customer Service
@@ -91,11 +97,15 @@ richard.crabtree@gmail.com 
 
 
 # Recognition
-+ "Rich has played a key role is successful deployment of dev and test EMR clusters for (Customer) AWS Migration project. These are critical to the success of the project. He displayed not only technical skills, but a lot of patience dealing with a tough customer." - Project Engagement Manager
-+ "Rich has been putting a significant amount of extra effort with (Customer). He has taken time off his PTO to answer questions and assist with issues." - Project Solutions Architect
-+ "Great work keeping up with the rapidly changing requirements with a very dynamic situation." - Project Solutions Architect
-+ "Working late nights and weekends to bring a successful go live for (Customer)" - Project Solutions Architect
-+ "This is the Rackspace I remeber!" - Customer
+> "Rich has played a key role is successful deployment of dev and test EMR clusters for (Customer) AWS Migration project. These are critical to the success of the project. He displayed not only technical skills, but a lot of patience dealing with a tough customer." - Project Engagement Manager  
+
+> "Rich has been putting a significant amount of extra effort with (Customer). He has taken time off his PTO to answer questions and assist with issues." - Project Solutions Architect  
+
+> "Great work keeping up with the rapidly changing requirements with a very dynamic situation." - Project Solutions Architect  
+
+> "Working late nights and weekends to bring a successful go live for (Customer)" - Project Solutions Architect  
+
+> "This is the Rackspace I remeber!" - Customer  
 
 
 # Certifications
