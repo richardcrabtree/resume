@@ -4,38 +4,38 @@ richard.crabtree@gmail.com 
 # Skills
 
 #### Continuous Integration and Delivery
-+ Design of Github Actions pipelines
-+ Design of Gitlab CI pipelines
++ Github Actions pipelines
++ Gitlab CI pipelines
 
 #### Infrastructure as Code
-+ Build infrastructure with Cloudformation
-+ Build infrastructure with AWS CDK
-+ Build infrastructure with Terraform
++ Cloudformation
++ AWS CDK
++ Terraform
 
 #### Amazon Web Services
-+ Creation of Elastic Map Reduce clusters
-+ Creation of RDS databases including Aurora and Oracle
++ Elastic Map Reduce clusters
++ RDS databases including Aurora and Oracle
 + Design of IAM components
-+ Creation of KMS keys
-+ Development of Lambda functions
-+ Development of State Manager scripts
-+ Creation of Ec2 instances
-+ Creation of S3 buckets
++ KMS keys
++ Lambda functions
++ State Manager scripts
++ Ec2 instances
++ S3 buckets
 
 #### Containerization
-+ Build and deploy Docker containers
-+ Use of Docker Compose
++ Docker containers
++ Docker Compose
 
 #### Software
-+ Development with NodeJS
-+ Development with Typescript
-+ Development with Python
-+ Development with Ruby
++ NodeJS
++ Typescript
++ Python
++ Ruby
 
 #### Operating Systems
-+ Support of Red Hat, CentOS, and Debian in production environments
++ Red Hat, CentOS, and Debian in production environments
 + SAN volume addition and expansion
-+ Support of PCS / Red Hat Clusters
++ PCS / Red Hat Clusters
 + Implementation and scheduling of change-plans
 + Package installation and upgrades
 + Evaluation of resource utilization, performance, and security
@@ -73,21 +73,22 @@ richard.crabtree@gmail.com 
 + Blacklist mitigation
 
 #### Networking
-+ Configuration of Juniper firewalls
-+ Configuration of Cisco firewalls and switches
-+ Configuration of BigIP load balancers
++ Juniper firewalls
++ Cisco firewalls and switches
++ BigIP load balancers
 + Architect, build, and support IPSEC VPN tunnels
 + PCI compliance remediation
 
 #### Customer Service
 + Successfully promote confidence in my company, our products, and in my ability to solve customer problems
-+ Develop rapport and relationships of confidence with customers who have diverse needs and look to me for guidance
-+ Recognition of my customer’s goals, both short and long term, and successfully applying this understanding to meet the customer’s immediate concerns and provide guidance for future goals
-+ Clearly communicate while adapting to the audience’s level of knowledge and urgency.
++ Develop rapport and relationships of confidence with customers who have diverse needs
++ Recognition of my customer’s short and long term goals
++ Meet the customer’s immediate concerns and provide guidance for future goals
++ Clearly communicate while adapting to the audience’s level of knowledge and urgency
 + Resolve highly complex and non-routine problems, questions, and complaints 
 + Empower customers to manage common changes independently
 + Provide recommendations to handle growth in capacity requirements and enhance reliability
-+ Recieve consistently high ratings in customer satisfaction
++ Receive consistently high ratings in customer satisfaction
 
 
 # Certifications
@@ -95,9 +96,9 @@ richard.crabtree@gmail.com 
 
 
 # Awards
-+ I have received my department’s quarterly Most Valuable Player award. 
-+ I have received Most Valuable Player Runner Up. 
-+ I have twice been elected by my peers as Team Player of the Month. 
++ Most Valuable Player award winner
++ Most Valuable Player runner up
++ Team Player Of The Month multiple award winner
 
 
 # Recognition
@@ -109,7 +110,7 @@ richard.crabtree@gmail.com 
 
 *"Working late nights and weekends to bring a successful go live for (Customer)"* - Project Solutions Architect  
 
-*"This is the Rackspace I remeber!"* - Customer  
+*"This is the Rackspace I remember!"* - Customer  
 
 
 
