@@ -3,39 +3,39 @@ richard.crabtree@gmail.com 
 
 # Skills
 
+#### Continuous Integration and Delivery
++ Github Actions pipeline design
++ Gitlab CI pipelines design
 
 #### Infrastructure as Code
-+ Cloudformation
-+ AWS CDK
-+ Terraform
-
-#### Continuous Integration and Delivery
-+ Github Actions pipelines
-+ Gitlab CI pipelines
++ Cloudformation infrastructure engineering
++ AWS Cloud Development Kit infrastructure engineering
++ Terraform infrastructure engineering
 
 #### Amazon Web Services
-+ Elastic Map Reduce clusters
-+ RDS databases, MySql, Aurora and Oracle
-+ IAM
-+ KMS
-+ Lambda
-+ State Manager
-+ EC2, S3, VPC
++ Elastic Map Reduce cluster creation
++ RDS databases including Aurora and Oracle creation
++ IAM component design
++ KMS keys creation
++ Lambda function development
++ State Manager script development
++ Ec2 instance creation
++ S3 bucket creation
 
 #### Containerization
 + Docker containers
 + Docker Compose
 
 #### Software
-+ NodeJS
-+ Typescript
-+ Python
-+ Ruby
++NodeJS development
++Typescript development
++Python development
++Ruby development
 
 #### Operating Systems
-+ Red Hat, CentOS, and Debian in production environments
++ Support of Red Hat, CentOS, and Debian in production environments
 + SAN volume addition and expansion
-+ PCS / Red Hat Clusters
++ Support of PCS / Red Hat Clusters
 + Implementation and scheduling of change-plans
 + Package installation and upgrades
 + Evaluation of resource utilization, performance, and security
@@ -47,17 +47,17 @@ richard.crabtree@gmail.com 
 + Log analysis
 
 #### Web Hosting
-+ Support of cPanel, Plesk, Apache, Nginx, and PHP
++ Support of cPanel, Plesk, Apache, Nginx and PHP
 + Configuration of virtual hosts
 + SSL/TLS certificate, protocols, and cipher configuration
 + DNS zone management
-+ Operational support for Tomcat application servers
++ Tomcat application server support
 
 #### Database Administration
-+ Installation and support of MySQL
-+ Installation and support of Postgres
-+ Installation and support of MongoDB
-+ Installation and support of Aurora
++ MySQL installation and support
++ Postgres installation and support
++ MongoDB installation and support
++ Aurora installation and support
 + Database backup and restore operations
 + Setup and support of MySQL clusters
 + Replication failure recovery
@@ -73,22 +73,21 @@ richard.crabtree@gmail.com 
 + Blacklist mitigation
 
 #### Networking
-+ Juniper firewalls
-+ Cisco firewalls and switches
-+ BigIP load balancers
-+ Architect, build, and support IPSEC VPN tunnels
++ Juniper firewall configuration and support
++ Cisco firewall and switch configuration and support
++ BigIP load balancer configuration and support
++ IPSEC VPN tunnel design, deployment, and support
 + PCI compliance remediation
 
 #### Customer Service
 + Successfully promote confidence in my company, our products, and in my ability to solve customer problems
-+ Develop rapport and relationships of confidence with customers who have diverse needs
-+ Recognition of my customer’s short and long term goals
-+ Meet the customer’s immediate concerns and provide guidance for future goals
-+ Clearly communicate while adapting to the audience’s level of knowledge and urgency
++ Develop rapport and relationships of confidence with customers who have diverse needs and look to me for guidance
++ Recognition of my customer’s goals, both short and long term, and successfully applying this understanding to meet the customer’s immediate concerns and provide guidance for future goals
++ Clearly communicate while adapting to the audience’s level of knowledge and urgency.
 + Resolve highly complex and non-routine problems, questions, and complaints 
 + Empower customers to manage common changes independently
 + Provide recommendations to handle growth in capacity requirements and enhance reliability
-+ Receive consistently high ratings in customer satisfaction
++ Recieve consistently high ratings in customer satisfaction
 
 
 # Certifications
@@ -96,9 +95,9 @@ richard.crabtree@gmail.com 
 
 
 # Awards
-+ Most Valuable Player award winner
-+ Most Valuable Player runner up
-+ Team Player Of The Month multiple award winner
++ I have received my department’s quarterly Most Valuable Player award. 
++ I have received Most Valuable Player Runner Up. 
++ I have twice been elected by my peers as Team Player of the Month. 
 
 
 # Recognition
@@ -110,7 +109,7 @@ richard.crabtree@gmail.com 
 
 *"Working late nights and weekends to bring a successful go live for (Customer)"* - Project Solutions Architect  
 
-*"This is the Rackspace I remember!"* - Customer  
+*"This is the Rackspace I remeber!"* - Customer  
 
 
 
