@@ -54,10 +54,10 @@ richard.crabtree@gmail.com 
 + Operational support for Tomcat application servers
 
 #### Database Administration
-+ Installation and support of MySQL
-+ Installation and support of Postgres
-+ Installation and support of MongoDB
-+ Installation and support of Aurora
++ MySQL
++ Postgres
++ MongoDB
++ Aurora
 + Database backup and restore operations
 + Setup and support of MySQL clusters
 + Replication failure recovery
