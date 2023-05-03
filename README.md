@@ -15,7 +15,7 @@ richard.crabtree@gmail.com 
 
 #### Amazon Web Services
 + Elastic Map Reduce clusters
-+ RDS databases, MySql, Aurora and Oracle
++ RDS databases, MySql, Aurora, and Oracle
 + IAM
 + KMS
 + Lambda
