@@ -62,11 +62,11 @@ richard.crabtree@gmail.com 
 + Setup and support of MySQL clusters
 + Replication failure recovery
 + Database user management
-+ Database performace assesment
++ Database performance assessment
 
 #### Virtualization
 + Virtual machine provisioning and operational support for servers running in private VMware infrastructure
-+ Hypervisor performance assesment 
++ Hypervisor performance assessment  
 
 #### Email administration
 + Architecture and administration of mail transport solutions

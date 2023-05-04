@@ -11,7 +11,7 @@ richard.crabtree@gmail.com 
 
 #### Continuous Integration and Delivery
 + Github Actions pipelines
-+ Gitlab CI pipelines
++ GitLab CI pipelines
 
 #### Amazon Web Services
 + Elastic Map Reduce clusters
@@ -62,11 +62,11 @@ richard.crabtree@gmail.com 
 + Setup and support of MySQL clusters
 + Replication failure recovery
 + Database user management
-+ Database performace assesment
++ Database performance assessment
 
 #### Virtualization
 + Virtual machine provisioning and operational support for servers running in private VMware infrastructure
-+ Hypervisor performance assesment 
++ Hypervisor performance assessment 
 
 #### Email administration
 + Architecture and administration of mail transport solutions
@@ -75,7 +75,7 @@ richard.crabtree@gmail.com 
 #### Networking
 + Juniper firewalls
 + Cisco firewalls and switches
-+ BigIP load balancers
++ BIG-IP load balancers
 + Architect, build, and support IPSEC VPN tunnels
 + PCI compliance remediation
 
@@ -119,7 +119,7 @@ richard.crabtree@gmail.com 
 
 ### Rackspace Technologies  
 > **Cloud Practice Engineer, Professional Services**  
-January 2022 - Present
+January 2022 - May 2023
  
 > **Linux Support Engineer, Strategic Accounts**  
 May 2021 - January 2022
