@@ -117,7 +117,7 @@ richard.crabtree@gmail.com 
 
 # Professional Experience  
 
-### Rackspace Technologies  
+### Rackspace Technology  
 > **Cloud Practice Engineer, Professional Services**  
 January 2022 - May 2023
  
